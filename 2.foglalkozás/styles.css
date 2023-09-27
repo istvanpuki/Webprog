@@ -1,3 +1,9 @@
 body {
     background-color:cadetblue;
 }
+
+button {
+    background-color: rgb(33, 58, 58);
+    color: white;
+    border-radius: 5px;
+}
