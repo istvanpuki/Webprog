@@ -1,0 +1,7 @@
+Linkek
+
+HTML KVÍZ
+https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML
+
+CSS KVÍZ  
+https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS
